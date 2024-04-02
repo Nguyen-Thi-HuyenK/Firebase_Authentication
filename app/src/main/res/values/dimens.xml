@@ -1,0 +1,4 @@
+<!-- res/values/dimens.xml -->
+<resources>
+    <dimen name="text_padding">30dp</dimen> <!-- Adjust the padding value as needed -->
+</resources>

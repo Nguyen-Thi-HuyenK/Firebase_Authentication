@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="green">#4fa853</color>
+    <color name="pink">#e05d5d</color>
+    <color name="red">#FF0000</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="text_padding">30dp</dimen>
+    <string name="app_name">Android_Login</string>
+    <string name="gcm_defaultSenderId" translatable="false">807822572728</string>
+    <string name="google_api_key" translatable="false">AIzaSyCngJffbpI96yUTjN4jCczMuOSorueEirE</string>
+    <string name="google_app_id" translatable="false">1:807822572728:android:054d5a89fc5f612343c84d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCngJffbpI96yUTjN4jCczMuOSorueEirE</string>
+    <string name="google_storage_bucket" translatable="false">android-login-20b98.appspot.com</string>
+    <string name="project_id" translatable="false">android-login-20b98</string>
+    <style name="Base.Theme.Android_Login" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/green</item>
+        <item name="colorPrimaryVariant">@color/green</item>
+        <item name="android:statusBarColor">@color/green</item>
+    </style>
+    <style name="Theme.Android_Login" parent="Base.Theme.Android_Login"/>
+</resources>
