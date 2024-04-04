@@ -10,7 +10,7 @@
     <string name="gcm_defaultSenderId" translatable="false">807822572728</string>
     <string name="google_api_key" translatable="false"></string>
     <string name="google_app_id" translatable="false">1:807822572728:android:054d5a89fc5f612343c84d</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCngJffbpI96yUTjN4jCczMuOSorueEirE</string>
+    <string name="google_crash_reporting_api_key" translatable="false"></string>
     <string name="google_storage_bucket" translatable="false">android-login-20b98.appspot.com</string>
     <string name="project_id" translatable="false">android-login-20b98</string>
     <style name="Base.Theme.Android_Login" parent="Theme.Material3.DayNight.NoActionBar">
