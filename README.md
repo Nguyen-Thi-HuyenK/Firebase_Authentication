@@ -5,11 +5,11 @@
 - Register a new user with email and password, the user's information will be saved to the Firebase database
 - Login with email and password using the Firebase authentication feature
 - After logging in successfully the app will automatically navigate to the user's info screen which displays the user's email and a masked password
-#### Register a new user
+#### 1. Register a new user
 ![Register](https://github.com/Nguyen-Thi-HuyenK/Firebase_Authentication/blob/master/assets/SignUp.jpg)
-#### Display the message "Login Unsuccessfully" if the email and/or password is incorrect 
+#### 2. Display the message "Login Unsuccessfully" if the email and/or password is incorrect 
 ![Login Unsuccessfully](https://github.com/Nguyen-Thi-HuyenK/Firebase_Authentication/blob/master/assets/Login-fail.jpg)
-#### Display the message "Login Successfully" if the email and password are correct, and automatically navigate to the user info screen which displays the user's email and masked password.
+#### 3. Display the message "Login Successfully" if the email and password are correct, and automatically navigate to the user info screen which displays the user's email and masked password.
 ![Login Successfully](https://github.com/Nguyen-Thi-HuyenK/Firebase_Authentication/blob/master/assets/Screenshot_20240401-164202_Android_Login.jpg)
 ## Getting Started
 ### Prerequisites
